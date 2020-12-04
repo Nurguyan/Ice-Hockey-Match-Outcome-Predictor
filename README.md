@@ -1,5 +1,5 @@
 # Ice hockey match outcome predicting model
-A prediction model of match outcome in ice hockey of Ice Hockey Junior League of Québec.
+A prediction model of matches' outcome for Ice Hockey Junior League of Québec.
 
 ## Dataset
 The dataset contains 1008 data points (504 matches) from September 2018 to March 2020 of Regular Season. Teams that quit the league were excluded from the dataset namely STG (MONTAGNARDS de ST-GABRIEL-DE-BRANDON) and MTN (Arctic de Montréal-Nord Junior AAA).
