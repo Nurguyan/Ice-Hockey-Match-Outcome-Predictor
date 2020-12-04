@@ -21,5 +21,4 @@ Each data point is a set of statistical data as shown on the table below.
 | Class | Win or Loss | 
 
 ### Parser
-The data was obtained by parsing official website of Ice Hockey Junior League of Québec: https://www.lhjaaaq.com/
-If you want to check the parser, see here: https://github.com/Nurguyan/LHJAAAQ-Horaire-Parser
+The data was obtained by parsing official website of Ice Hockey Junior League of Québec: https://www.lhjaaaq.com/. If you want to check the parser, see here: https://github.com/Nurguyan/LHJAAAQ-Horaire-Parser
